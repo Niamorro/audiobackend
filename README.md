@@ -41,7 +41,8 @@ pip install audiobackend
 
 Ubuntu/Debian:
 ```bash
-sudo apt-get install libav-tools portaudio19-dev
+sudo apt update
+sudo apt install libportaudio2 libportaudiocpp0 portaudio19-dev
 ```
 
 macOS:
