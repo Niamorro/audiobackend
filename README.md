@@ -2,6 +2,22 @@
 
 A high-quality audio playback library for Python with DSD support and efficient buffer management.
 
+<div align="center">
+
+---
+
+[![Tests](https://img.shields.io/github/actions/workflow/status/Niamorro/audiobackend/tests.yml?style=for-the-badge&logo=github&label=Tests)](https://github.com/Niamorro/audiobackend/actions/workflows/tests.yml)
+[![Coverage](https://img.shields.io/codecov/c/github/Niamorro/audiobackend?style=for-the-badge&logo=codecov&labelColor=2B2D3A)](https://codecov.io/gh/Niamorro/audiobackend)
+[![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=2B2D3A)](https://pypi.org/project/audiobackend/)
+[![License](https://img.shields.io/badge/License-GPL%203.0-green.svg?style=for-the-badge&labelColor=2B2D3A)](https://opensource.org/licenses/GPL-3.0)
+[![PyPI version](https://img.shields.io/pypi/v/audiobackend.svg?style=for-the-badge&logo=pypi&logoColor=white&labelColor=2B2D3A)](https://pypi.org/project/audiobackend/)
+[![Downloads](https://img.shields.io/pypi/dm/audiobackend?style=for-the-badge&logo=python&labelColor=2B2D3A)](https://pypi.org/project/audiobackend/)
+
+---
+
+</div>
+
+
 ## Features
 
 - High-quality audio playback with various formats support (MP3, WAV, FLAC, DSD)
