@@ -8,4 +8,4 @@ __version__ = "0.1.0"
 __author__ = "Niamorro"
 __email__ = "niamorrodev@gmail.com"
 
-__all__ = ["audiobackend"]
+__all__ = ["AudioBackend"]
